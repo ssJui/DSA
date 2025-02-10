@@ -1,2 +1,2 @@
-# DSA-Array
-DSA questions solution
+# DSA 
+DSA questions solution.
