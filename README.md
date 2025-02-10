@@ -1,2 +1,2 @@
-# DSA-Array
-GeeksforGeeks DSA interview questions solutions.(Topic -> Array)
+# DSA 
+DSA questions solution.
